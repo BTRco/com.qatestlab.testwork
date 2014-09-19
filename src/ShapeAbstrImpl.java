@@ -3,6 +3,7 @@ public abstract class ShapeAbstrImpl implements Shape {
     private String shapeName;
     private String shapeColor;
 
+
     public String getShapeName() {
         return shapeName;
     }
